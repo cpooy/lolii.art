@@ -1,0 +1,222 @@
+.pattern-bg {
+    background-image: url("../../images/tatsu.png") !important;
+    background-size: 120rem;
+    background-attachment: scroll;
+    background-repeat: repeat;
+}
+
+.ml12 .letter {
+    display: inline-block;
+    line-height: 1em;
+}
+
+.u-section-1 {
+  background-image: url("../../images/what_the_fuck-min.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 629px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 727px;
+  min-height: 281px;
+  margin: 348px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-bottom: 30px;
+  padding-top: 0;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  font-size: 6rem;
+  font-family: Alata;
+  font-weight: 700;
+  letter-spacing: -4px;
+  margin: 0 0 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  font-family: Alata;
+  font-style: normal;
+  margin: 0 8px 0 auto;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 519px;
+  }
+
+  .u-section-1 .u-text-1 {
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    width: auto;
+    margin-top: 118px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -8px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 629px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 664px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.5rem;
+    margin-top: 87px;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 472px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 273px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 297px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 239px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    margin-top: 0;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 4.5rem;
+  line-height: 1.2;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: Alata;
+  margin: 120px 0 0;
+}
+
+.u-section-2 .u-btn-1 {
+  background-image: none;
+  letter-spacing: 1px;
+  border-style: none;
+  text-shadow: 0 0 0 rgba(0,0,0,0);
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: Alata;
+  margin: 83px auto 60px;
+  padding: 19px 124px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    --animation-custom_in-translate_x: -200px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 0deg;
+    --animation-custom_in-scale: 1;
+    width: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 491px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 551px;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-btn-1 {
+    margin-top: 74px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 670px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 3rem;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 354px;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: 60px;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 1.5rem;
+    margin-top: 52px;
+    padding-right: 84px;
+    padding-left: 83px;
+  }
+}

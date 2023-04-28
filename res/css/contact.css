@@ -1,0 +1,73 @@
+.pattern-bg {
+    background-image: url("../../images/tatsu.png") !important;
+    background-size: 120rem;
+    background-attachment: scroll;
+    background-repeat: repeat;
+}
+
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 941px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-family: Alata;
+  margin: 122px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 347px;
+  width: 570px;
+  margin: 122px auto 60px;
+}
+
+.u-section-1 .u-label-1 {
+  font-family: Alata;
+}
+
+.u-section-1 .u-input-1 {
+  font-family: Inconsolata;
+  text-transform: none;
+}
+
+.u-section-1 .u-label-2 {
+  font-family: Alata;
+}
+
+.u-section-1 .u-input-2 {
+  font-family: Inconsolata;
+  text-transform: none;
+}
+
+.u-section-1 .u-label-3 {
+  font-family: Alata;
+}
+
+.u-section-1 .u-input-3 {
+  font-family: Inconsolata;
+  text-transform: none;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-family: Alata;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
